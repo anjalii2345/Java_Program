@@ -6,7 +6,8 @@ public class First_Program {
 		// TODO Auto-generated method st
 		System.out.print("This my first program in java");
 		System.out.print("GAOOD WORK");
-		
+		System.out.print("Happy mood");
+
 	}
 
 }
