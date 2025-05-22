@@ -6,7 +6,8 @@ public class First_Program {
 		// TODO Auto-generated method stub
 		String name="Anjali";
 		int age=28;
-		
+		String s1= new String("Anjali");
+		System.out.println(s1);
 		
 		String city="Pune";
 		int phoneno=1231756890;
