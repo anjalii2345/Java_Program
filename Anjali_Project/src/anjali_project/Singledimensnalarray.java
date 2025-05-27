@@ -1,3 +1,4 @@
+package anjali_project;
 import java.util.Scanner;
 public class Singledimensnalarray {
     public static void main(String[] args) {
