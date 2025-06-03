@@ -1,4 +1,3 @@
-package anjali_project;
 import java.util.Scanner;
 public class Singledimensionalarrayusers {
     public static void main(String[] args){
